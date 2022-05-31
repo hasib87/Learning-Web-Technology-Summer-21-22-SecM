@@ -1,0 +1,42 @@
+<employees>
+ <employee>
+       <id>1</id>
+       <name>John Doe</name>
+     <address>
+       <house>38</house>
+       <road>3</road>
+       <area>banani</area>
+       <city>Dhaka</city>
+    </address>
+<department>Sales</department>
+<salary>$20000</salary> 
+</employees>
+ <employee>
+<employees>
+ <employee>
+       <id>2</id>
+       <name>Mark Zuckerburg</name>
+     <address>
+       <flat>A/1</flat>
+       <house>20</house>
+       <road>18</road>
+       <area>Mirpur</area>
+       <city>Dhaka</city>
+    </address>
+<department>Accounts</department>
+<salary>$12000</salary> 
+</employees>
+ <employee>
+<employees>
+ <employee>
+       <id>3</id>
+       <name>John Doe</name>
+     <address>
+       <house>38</house>
+       <road>3</road>
+       <area>Motijeel</area>
+    </address>
+<department>Human Resource</department>
+<salary>$30000</salary> 
+</employees>
+ <employee>
